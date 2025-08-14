@@ -1,0 +1,1 @@
+https://www.figma.com/proto/o1oIyzNyrWTdRdopTtSD8w/Practical-1?node-id=1-2&p=f&t=gm8f7tvEbrIruyC9-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2
