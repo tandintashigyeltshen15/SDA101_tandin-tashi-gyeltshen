@@ -1,1 +1,1 @@
-https://www.figma.com/design/1tPSOz5lW6tqvfSnqestt0/Practical-2?node-id=0-1&t=TkIzhVo6BlxReZ2F-1
+https://www.figma.com/proto/1tPSOz5lW6tqvfSnqestt0/Practical-2?node-id=4-7&p=f&t=7F8zef5TIJ5FbLyK-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A7&show-proto-sidebar=1
