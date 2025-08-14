@@ -1,0 +1,1 @@
+https://www.figma.com/design/1tPSOz5lW6tqvfSnqestt0/Practical-2?node-id=0-1&t=TkIzhVo6BlxReZ2F-1
