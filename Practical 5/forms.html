@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+<form action="/submit-form" method="post">
+    <h2>Hostel Room Maintenance Request Form</h2>
+    <label for="full name">Full Name:</label>
+    <input type="text" id="full name" name="full name" required><br><br>
+
+    <label for="student id">Student ID:</label>
+    <input type="number" id="student id" name="student id" required><br><br>
+
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required><br><br>
+
+    <label for="phone number">Phone Number:</label>
+    <input for="tel" id="phone number" name="phone number" required><br><br>
+
+    <p><b>Room Information Section</b></p>
+
+    <label for="block name">Block Name:</label>
+    <select id="block name" name="block name">
+        <option value="Block A">Block A</option>
+        <option value="Block B">Block B</option>
+        <option value="Block C">Block C</option>
+        <option value="Block F">Block F</option>
+        <option value="RK">RK</option>
+    </select><br><br>
+
+    <label for="room number">Room Number:</label>
+    <input type="number" id="room number" name="room number" min="100" max="999" required placeholder="room number(e.g,205)">
+
+    <label for="floor number">Floor Number</label>
+    <input type="number" id="floor number" name="floor number" min="1" max="10" required placeholder="floor number">
+
+    <p><b>Issue Details Section</b></p>
+
+    <label for="types of issue">Type of issue:</label>
+    <select id="types of issue" name="types of issue">
+        <option value="Electrical">Electrical</option>
+        <option value="Plumbing">Plumbing</option>
+        <option value="Furniture">Furniture</option>
+        <option value="Infrastructure">Infrastructure</option>
+        <option value="Cleaning">Cleaning</option>
+        <option value="other">other</option>
+    </select><br><br>
+
+    <p>Issue urgency:</p>
+    <input type="radio" id="Emergency(Immediate attention required)" name="issue urgency" value="Emergency(Immediate attention required)">
+    <label for="Emergency(Immediate attention required)">Emergency(Immediate attention required)</label><br>
+
+    <input type="radio" id="High(Within 24 hours)" name="issue urgency" value="High(Within 24 hours)">
+    <label for="High(Within 24 hours)">High(Within 24 hours)</label><br>
+
+    <input type="radio" id="Medium(Within 3 days)" name="issue urgency" value="Medium(Within 3 days)">
+    <label for="Medium(Within 3 days)">Medium(Within 3 days)</label><br>
+
+    <input type="radio" id="Low(Within a week)" name="issue urgency" value="Low(Within a week)">
+    <label for="Low(Within a week)">Low(Within a week)</label><br>
+
+   
+   
+   
+    <input type="submit" value="Register">
+</form>
+
+
+
+    
+
+
+
+
+
